@@ -63,7 +63,11 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Cities drive development but lack modern financial systems. Across Africa
+      and the Global South, most subnational governments still rely on manual
+      processes — cash payments, outdated ledgers, and opaque procurement. Bekkr
+      changes that.
     items:
       - type: FeaturedItem
         title: 500k
