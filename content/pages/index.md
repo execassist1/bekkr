@@ -57,7 +57,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Public Finance is Broken at the Local Level
       color: text-dark
       styles:
         self:
