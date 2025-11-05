@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Bekkr helps cities and municipalities digitize payments, eliminate
+      leakages, and grow revenue — starting with intelligent revenue collection,
+      the foundation of financial autonomy.
+
+
+
+
     actions:
       - label: Get started
         altText: ''
