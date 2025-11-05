@@ -70,7 +70,7 @@ sections:
       changes that.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Lost revenues and leakages
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
