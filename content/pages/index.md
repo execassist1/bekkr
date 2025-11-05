@@ -71,7 +71,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Lost revenues and leakages
-        subtitle: Lost revenues and leakages
+        subtitle: >-
+          Bekkr replaces these pain points with automation, transparency, and
+          intelligence.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
