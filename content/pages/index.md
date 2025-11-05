@@ -17,7 +17,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: Request a Demo
         altText: ''
         url: /
         showIcon: false
