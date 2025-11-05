@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/Productmockup.png
-      altText: Unblock your team boost your time to production preview
+      altText: bekkr product mockup
       elementId: ''
       type: ImageBlock
     badge:
