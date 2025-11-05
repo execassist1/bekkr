@@ -5,7 +5,8 @@
         "styles": {
             "self": {
                 "margin": [
-                    "mr-96"
+                    "mr-96",
+                    "ml-96"
                 ]
             }
         },
