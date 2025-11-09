@@ -289,18 +289,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      <div style="text-align: center">*   Revenue Collection – Intelligent,
-      transparent, real-time
-
-
-      *   Procurement & Expenditure – Traceable and efficient
-
-
-      *   Treasury & Payments – Unified ledger for all transactions
-
-
-      *   Municipal Credit & Capital Access – Linking cities to investors</div>
+    text: |+
+      <div style="text-align: center"></div>
 
     badge:
       label: ''
