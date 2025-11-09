@@ -288,10 +288,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Bekkr is building the digital backbone for how cities manage money — a
-      unified platform connecting revenue, procurement, treasury, and capital
-      markets.
+    subtitle: ''
     text: >+
       <div style="text-align: center">*   Revenue Collection – Intelligent,
       transparent, real-time
