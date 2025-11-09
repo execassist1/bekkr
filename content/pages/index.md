@@ -336,7 +336,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: '➤ Revenue Collection – Intelligent, transparent, real-time'
         tagline: Feature 1
         subtitle: ''
         text: ''
