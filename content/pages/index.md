@@ -361,7 +361,7 @@ sections:
         subtitle: 'Integrates with banks, cards, and mobile money platforms.'
         text: ''
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/33609d0000947d45da7f52f095c0906d.jpg
           altText: Placeholder image
           styles:
             self:
