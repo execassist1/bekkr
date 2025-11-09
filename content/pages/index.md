@@ -309,7 +309,10 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
   - title:
-      text: Grow your business 10x faster
+      text: >-
+        Bekkr is building the digital backbone for how cities manage money — a
+        unified platform connecting revenue, procurement, treasury, and capital
+        markets.
       color: text-dark
       styles:
         self:
