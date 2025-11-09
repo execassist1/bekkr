@@ -335,7 +335,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Digital Invoicing & Billing
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Automated invoicing for all government fees and permits.
         text: ''
         image:
