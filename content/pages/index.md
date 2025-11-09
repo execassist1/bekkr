@@ -378,7 +378,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Analytics & Audit Trails
         tagline: ''
         subtitle: Track every transaction with real-time insights and reports.
         text: ''
