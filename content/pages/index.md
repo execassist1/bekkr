@@ -336,7 +336,10 @@ sections:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: >-
+      Bekkr is building the digital backbone for how cities manage money — a
+      unified platform connecting revenue, procurement, treasury, and capital
+      markets.
     text: |+
       *   Revenue Collection – Intelligent, transparent, real-time
 
