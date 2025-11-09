@@ -267,14 +267,7 @@ sections:
       type: TitleBlock
     subtitle: Track every transaction with real-time insights and reports.
     text: ''
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/3436f40ac8f0ca36fb6ccad2af1e5fd6.jpg
       altText: analytics
