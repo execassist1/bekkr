@@ -184,27 +184,6 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Analytics & Audit Trails
-      color: text-dark
-      type: TitleBlock
-    subtitle: Track every transaction with real-time insights and reports.
-    text: ''
-    actions: []
-    media:
-      url: /images/3436f40ac8f0ca36fb6ccad2af1e5fd6.jpg
-      altText: analytics
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
-  - title:
       text: Grow your business 10x faster
       color: text-dark
       styles:
