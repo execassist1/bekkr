@@ -234,7 +234,7 @@ sections:
     text: ''
     actions: []
     media:
-      url: /images/hero2.svg
+      url: /images/ed56dcb806758db908121d76697d9655.jpg
       altText: Fun feature preview
       type: ImageBlock
     badge:
