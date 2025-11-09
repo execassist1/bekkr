@@ -266,8 +266,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Track every transaction with real-time insights and reports.
-    text: |
-      m
+    text: ''
     actions:
       - label: Get started
         url: /
