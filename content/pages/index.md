@@ -69,7 +69,7 @@ sections:
       processes — cash payments, outdated ledgers, and opaque procurement. Bekkr
       changes that.
     items:
-      - title: 200%
+      - title: Inefficientcollections and reporting
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
