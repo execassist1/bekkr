@@ -200,7 +200,7 @@ sections:
     actions: []
     media:
       title: ''
-      url: /images/placeholder-video.mp4
+      url: 'https://pin.it/1GAH6CuMp'
       autoplay: true
       loop: true
       muted: true
