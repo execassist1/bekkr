@@ -358,7 +358,7 @@ sections:
         type: FeaturedItem
       - title: Seamless Payments
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Integrates with banks, cards, and mobile money platforms.'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
