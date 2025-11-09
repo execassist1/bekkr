@@ -184,26 +184,6 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Seamless Payments
-      color: text-dark
-      type: TitleBlock
-    subtitle: 'Integrates with banks, cards, and mobile money platforms.'
-    text: ''
-    actions: []
-    media:
-      url: /images/ed56dcb806758db908121d76697d9655.jpg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
       text: Analytics & Audit Trails
       color: text-dark
       type: TitleBlock
