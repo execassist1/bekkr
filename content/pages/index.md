@@ -383,7 +383,7 @@ sections:
         subtitle: Track every transaction with real-time insights and reports.
         text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/3436f40ac8f0ca36fb6ccad2af1e5fd6.jpg
           altText: Placeholder image
           styles:
             self:
