@@ -342,7 +342,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Partner with Bekkr
       color: text-dark
       styles:
         self:
