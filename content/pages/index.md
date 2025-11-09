@@ -265,7 +265,7 @@ sections:
       text: Analytics & Audit Trails
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Track every transaction with real-time insights and reports.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
