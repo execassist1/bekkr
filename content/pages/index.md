@@ -339,10 +339,7 @@ sections:
         title: Social Media Management
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
           altText: Featured item
