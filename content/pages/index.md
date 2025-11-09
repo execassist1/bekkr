@@ -339,7 +339,7 @@ sections:
         subtitle: Automated invoicing for all government fees and permits.
         text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/90de87fded957e0dc9b06e39337dceff.jpg
           altText: Placeholder Image
           styles:
             self:
