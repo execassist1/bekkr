@@ -337,8 +337,7 @@ sections:
       - title: Digital Invoicing & Billing
         tagline: This is the tagline
         subtitle: Automated invoicing for all government fees and permits.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
