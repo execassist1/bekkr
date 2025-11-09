@@ -70,7 +70,9 @@ sections:
       changes that.
     items:
       - title: Inefficientcollections and reporting
-        subtitle: Faster
+        subtitle: >-
+          Bekkr provides real-time fiscal visibility through advanced dashboards
+          and analytics.
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
