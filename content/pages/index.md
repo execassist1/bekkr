@@ -285,7 +285,7 @@ sections:
         type: Link
     media:
       url: /images/3436f40ac8f0ca36fb6ccad2af1e5fd6.jpg
-      altText: Dope design preview
+      altText: analytics
       type: ImageBlock
     badge:
       label: This is a badge
