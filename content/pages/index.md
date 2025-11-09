@@ -73,7 +73,9 @@ sections:
         subtitle: >-
           Bekkr provides real-time fiscal visibility through advanced dashboards
           and analytics.
-        text: ''
+        text: |+
+          mn
+
         image:
           altText: Featured icon three
           elementId: ''
