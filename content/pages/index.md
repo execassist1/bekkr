@@ -234,13 +234,7 @@ sections:
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
