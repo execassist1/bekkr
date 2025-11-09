@@ -308,7 +308,11 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: >-
+      Revenue Collection – Intelligent, transparent, real-timeProcurement &
+      Expenditure – Traceable and efficientTreasury & Payments – Unified ledger
+      for all transactionsMunicipal Credit & Capital Access – Linking cities to
+      investors</div>
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
