@@ -338,7 +338,7 @@ sections:
       - type: FeaturedItem
         title: ➤ Revenue Collection –
         tagline: Feature 1
-        subtitle: ''
+        subtitle: ' Intelligent, transparent, real-time'
         text: ''
         image:
           type: ImageBlock
