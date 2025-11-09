@@ -332,7 +332,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      Bekkr’s revenue platform helps subnational governments digitize every
+      inflow — from property rates to market levies — while ensuring instant
+      reconciliation and transparency.
     items:
       - title: Digital Invoicing & Billing
         tagline: ''
