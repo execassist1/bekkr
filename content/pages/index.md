@@ -292,16 +292,18 @@ sections:
       Bekkr is building the digital backbone for how cities manage money — a
       unified platform connecting revenue, procurement, treasury, and capital
       markets.
-    text: |+
-      *   Revenue Collection – Intelligent, transparent, real-time
+    text: >+
+      <div style="text-align: center">*   Revenue Collection – Intelligent,
+      transparent, real-time
+
 
       *   Procurement & Expenditure – Traceable and efficient
 
+
       *   Treasury & Payments – Unified ledger for all transactions
 
-      *   Municipal Credit & Capital Access – Linking cities to investors
 
-
+      *   Municipal Credit & Capital Access – Linking cities to investors</div>
 
     badge:
       label: ''
