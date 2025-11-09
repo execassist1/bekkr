@@ -285,6 +285,31 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
+      text: ''
+      color: text-dark
+      type: TitleBlock
+    subtitle: >-
+      Bekkr is building the digital backbone for how cities manage money — a
+      unified platform connecting revenue, procurement, treasury, and capital
+      markets.
+    text: |+
+      *   Revenue Collection – Intelligent, transparent, real-time
+
+      *   Procurement & Expenditure – Traceable and efficient
+
+      *   Treasury & Payments – Unified ledger for all transactions
+
+      *   Municipal Credit & Capital Access – Linking cities to investors
+
+
+
+    badge:
+      label: ''
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    type: GenericSection
+  - title:
       text: Grow your business 10x faster
       color: text-dark
       styles:
@@ -311,31 +336,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: GenericSection
-  - title:
-      text: ''
-      color: text-dark
-      type: TitleBlock
-    subtitle: >-
-      Bekkr is building the digital backbone for how cities manage money — a
-      unified platform connecting revenue, procurement, treasury, and capital
-      markets.
-    text: |+
-      *   Revenue Collection – Intelligent, transparent, real-time
-
-      *   Procurement & Expenditure – Traceable and efficient
-
-      *   Treasury & Payments – Unified ledger for all transactions
-
-      *   Municipal Credit & Capital Access – Linking cities to investors
-
-
-
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
