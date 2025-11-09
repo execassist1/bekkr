@@ -268,12 +268,6 @@ sections:
     subtitle: Track every transaction with real-time insights and reports.
     text: ''
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
