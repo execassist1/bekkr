@@ -392,10 +392,7 @@ sections:
         title: ➤ Procurement & Expenditure
         tagline: Feature 2
         subtitle: Traceable and efficient
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
