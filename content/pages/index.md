@@ -313,11 +313,21 @@ sections:
       Expenditure – Traceable and efficientTreasury & Payments – Unified ledger
       for all transactionsMunicipal Credit & Capital Access – Linking cities to
       investors</div>
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      *   Revenue Collection – Intelligent, transparent, real-time
+
+      *   Procurement & Expenditure – Traceable and efficient
+
+      *   Treasury & Payments – Unified ledger for all transactions
+
+      *   Municipal Credit & Capital Access – Linking cities to investors
+
+      <!---->
+
+
+
+
+
     badge:
       label: ''
       color: text-primary
