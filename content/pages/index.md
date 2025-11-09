@@ -230,7 +230,7 @@ sections:
       text: Seamless Payments
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: 'Integrates with banks, cards, and mobile money platforms.'
     text: ''
     actions: []
     media:
