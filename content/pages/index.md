@@ -326,7 +326,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: 'Start with the Lifeblood: Revenue Collection'
       color: text-primary
       styles:
         self:
