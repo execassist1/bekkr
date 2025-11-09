@@ -393,14 +393,6 @@ sections:
         tagline: Feature 2
         subtitle: Traceable and efficient
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
         actions: []
         colors: bg-dark-fg-light
         styles:
