@@ -309,7 +309,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      Revenue Collection – Intelligent, transparent, real-timeProcurement &
+      ➤ Revenue Collection – Intelligent, transparent, real-timeProcurement &
       Expenditure – Traceable and efficientTreasury & Payments – Unified ledger
       for all transactionsMunicipal Credit & Capital Access – Linking cities to
       investors</div>
