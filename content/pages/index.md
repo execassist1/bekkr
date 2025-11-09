@@ -69,7 +69,7 @@ sections:
       processes — cash payments, outdated ledgers, and opaque procurement. Bekkr
       changes that.
     items:
-      - title: Inefficientcollections and reporting
+      - title: Inefficient collections and reporting
         subtitle: >-
           Bekkr provides real-time fiscal visibility through advanced dashboards
           and analytics.
