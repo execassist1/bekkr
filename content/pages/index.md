@@ -199,7 +199,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     media:
-      title: ''
+      title: digital billing
       url: 'https://pin.it/1GAH6CuMp'
       autoplay: true
       loop: true
