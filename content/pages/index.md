@@ -72,8 +72,8 @@ sections:
       - type: FeaturedItem
         title: Lost revenues and leakages
         subtitle: >-
-          Bekkr replaces these pain points with automation, transparency, and
-          intelligence.
+          Bekkr digitizes and automates government revenue systems to eliminate
+          inefficiencies in collection and reporting.
         text: ''
         actions: []
         elementId: null
