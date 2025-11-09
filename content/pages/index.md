@@ -69,6 +69,28 @@ sections:
       processes — cash payments, outdated ledgers, and opaque procurement. Bekkr
       changes that.
     items:
+      - title: 200%
+        subtitle: Faster
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
       - type: FeaturedItem
         title: Lost revenues and leakages
         subtitle: >-
@@ -96,28 +118,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
       - title: Limited fiscal visibility
         subtitle: >-
           Bekkr prevents revenue losses by enforcing digital audit trails that
