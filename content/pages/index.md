@@ -380,7 +380,7 @@ sections:
         type: FeaturedItem
       - title: Feature Item Three
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Track every transaction with real-time insights and reports.
         text: ''
         image:
           url: /images/abstract-feature1.svg
