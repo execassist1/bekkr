@@ -97,7 +97,10 @@ sections:
             self:
               borderRadius: x-large
       - title: Limited fiscal visibility
-        subtitle: The Job Stuff
+        subtitle: >-
+          Bekkr prevents revenue losses by enforcing digital audit trails that
+          ensure every transaction is transparently tracked from source to
+          treasury.
         text: |+
 
 
