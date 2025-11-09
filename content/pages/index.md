@@ -266,9 +266,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Track every transaction with real-time insights and reports.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |+
+
+
     actions:
       - label: Get started
         url: /
