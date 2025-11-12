@@ -50,7 +50,7 @@
     "socialLinks": [
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/hello@bekker.co",
             "icon": "mail",
             "type": "Social"
         }
