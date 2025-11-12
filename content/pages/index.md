@@ -443,6 +443,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-8
       subtitle:
         textAlign: center
   - type: GenericSection
