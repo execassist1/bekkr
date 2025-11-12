@@ -38,7 +38,7 @@
                 "label": "Contact",
                 "altText": "Contact",
                 "url": "hello@bekkr.co",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "mail",
                 "iconPosition": "right",
                 "style": "secondary",
