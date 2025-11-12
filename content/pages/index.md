@@ -353,6 +353,7 @@ sections:
       self:
         flexDirection: col
         justifyContent: center
+        alignItems: center
       subtitle:
         textAlign: center
     type: GenericSection
