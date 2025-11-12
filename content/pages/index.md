@@ -366,10 +366,13 @@ sections:
         title: ➤ Revenue Collection
         tagline: Feature 1
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   Intelligent
+
+          *   Transparent
+
+          *   Real-time
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
