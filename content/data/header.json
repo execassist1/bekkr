@@ -12,7 +12,8 @@
                 "padding": [
                     "pr-96",
                     "pb-32"
-                ]
+                ],
+                "borderRadius": "xx-small"
             }
         },
         "type": "ImageBlock"
