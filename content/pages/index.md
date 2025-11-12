@@ -363,6 +363,24 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
+        title: ➤ Procurement & Expenditure
+        tagline: Feature 2
+        subtitle: Traceable and efficient
+        text: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
         title: ➤ Revenue Collection
         tagline: Feature 1
         subtitle: ''
@@ -381,24 +399,6 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: ➤ Procurement & Expenditure
-        tagline: Feature 2
-        subtitle: Traceable and efficient
-        text: ''
         actions: []
         colors: bg-dark-fg-light
         styles:
