@@ -80,7 +80,8 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-36"
+                "pl-36",
+                "pt-8"
             ],
             "margin": [
                 "mt-0"
