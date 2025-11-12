@@ -84,7 +84,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Request a \\de",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
