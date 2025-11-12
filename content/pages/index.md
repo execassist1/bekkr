@@ -67,6 +67,10 @@ sections:
       type: ImageBlock
       url: /images/Productmockup.png
       altText: Dope design preview
+      styles:
+        self:
+          padding:
+            - pl-28
     badge:
       type: Badge
       label: ''
