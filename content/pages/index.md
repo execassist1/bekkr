@@ -70,7 +70,7 @@ sections:
       styles:
         self:
           padding:
-            - pl-28
+            - pl-72
     badge:
       type: Badge
       label: ''
