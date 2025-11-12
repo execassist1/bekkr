@@ -10,10 +10,10 @@
                     "mb-0"
                 ],
                 "padding": [
-                    "pr-14",
-                    "pb-14",
-                    "pt-14",
-                    "pl-14"
+                    "pr-28",
+                    "pb-28",
+                    "pt-28",
+                    "pl-28"
                 ],
                 "borderRadius": "xx-small",
                 "borderWidth": 0,
