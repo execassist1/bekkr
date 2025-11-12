@@ -12,12 +12,10 @@ sections:
           textAlign: center
     subtitle: ''
     text: >+
-      Bekkr helps cities and municipalities digitize payments, eliminate
-      leakages, and grow revenue — starting with intelligent revenue collection,
-      the foundation of financial autonomy.
-
-
-
+      <div style="text-align: center">Bekkr helps cities and municipalities
+      digitize payments, eliminate leakages, and grow revenue — starting with
+      intelligent revenue collection, the foundation of financial
+      autonomy.</div>
 
     actions:
       - label: Request a Demo
