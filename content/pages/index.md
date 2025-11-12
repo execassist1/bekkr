@@ -354,6 +354,8 @@ sections:
         flexDirection: col
         justifyContent: center
         alignItems: center
+        padding:
+          - pt-9
       subtitle:
         textAlign: center
     type: GenericSection
