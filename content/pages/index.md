@@ -421,7 +421,7 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: Procurement & Expenditure
+        title: Municipal Credit & Capital Access
         tagline: Feature 4
         subtitle: Linking cities to investors
         text: ''
