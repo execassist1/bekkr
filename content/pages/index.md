@@ -404,7 +404,7 @@ sections:
       - type: FeaturedItem
         title: Treasury & Payments
         tagline: Feature 3
-        subtitle: Traceable and efficient
+        subtitle: Unified ledger for all transactions
         text: ''
         actions: []
         colors: bg-dark-fg-light
