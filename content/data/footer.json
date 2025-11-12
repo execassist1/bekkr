@@ -1,19 +1,12 @@
 {
     "logo": {
-        "url": "/images/Bekker.png",
-        "altText": "Logo light",
         "type": "ImageBlock",
+        "url": "/images/hero2.svg",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
         "styles": {
             "self": {
-                "padding": [
-                    "pl-0",
-                    "pt-0",
-                    "pb-0",
-                    "pr-0"
-                ],
-                "margin": [
-                    "mr-96"
-                ]
+                "borderRadius": "medium"
             }
         }
     },
