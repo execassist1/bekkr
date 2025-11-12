@@ -8,7 +8,7 @@
             "self": {
                 "borderRadius": "medium",
                 "padding": [
-                    "pb-28"
+                    "pb-0"
                 ]
             }
         }
