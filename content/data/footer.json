@@ -2,7 +2,14 @@
     "logo": {
         "url": "/images/Bekker.png",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "padding": [
+                    "pl-28"
+                ]
+            }
+        }
     },
     "text": "A description of your brand",
     "primaryLinks": {
