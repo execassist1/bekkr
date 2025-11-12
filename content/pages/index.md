@@ -365,7 +365,7 @@ sections:
       - type: FeaturedItem
         title: ➤ Revenue Collection
         tagline: Feature 1
-        subtitle: Be in good company
+        subtitle: ''
         text: |+
           *   Intelligent
 
