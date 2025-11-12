@@ -458,7 +458,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: ''
     text: >+
       Join leading municipalities digitizing their fiscal systems with Bekkr’s
       next-generation public finance infrastructure.
