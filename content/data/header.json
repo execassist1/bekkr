@@ -93,7 +93,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Join the Pilot",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
