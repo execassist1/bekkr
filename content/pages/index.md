@@ -60,7 +60,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: ''
     actions:
       - type: Button
