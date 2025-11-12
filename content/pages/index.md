@@ -447,6 +447,7 @@ sections:
           - pt-8
         margin:
           - mb-20
+          - mt-20
       subtitle:
         textAlign: center
   - type: GenericSection
