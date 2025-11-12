@@ -367,11 +367,7 @@ sections:
         tagline: Feature 1
         subtitle: ''
         text: |+
-          *   Intelligent
-
-          *   Transparent
-
-          *   Real-time
+          Intelligent, transparent, real-time
 
         actions: []
         colors: bg-dark-fg-light
