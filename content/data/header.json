@@ -10,8 +10,10 @@
                     "mb-0"
                 ],
                 "padding": [
-                    "pr-96",
-                    "pb-32"
+                    "pr-32",
+                    "pb-32",
+                    "pt-32",
+                    "pl-32"
                 ],
                 "borderRadius": "xx-small",
                 "borderWidth": 0,
