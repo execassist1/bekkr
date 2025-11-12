@@ -363,30 +363,6 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: ➤ Revenue Collection –
-        tagline: Feature 1
-        subtitle: ' Intelligent, transparent, real-time'
-        text: ''
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: '➤ Revenue Collection – Intelligent, transparent, real-time '
         tagline: Feature 2
         subtitle: Be in good company
