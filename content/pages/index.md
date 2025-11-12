@@ -446,7 +446,7 @@ sections:
         padding:
           - pt-8
         margin:
-          - mb-20
+          - mb-36
           - mt-11
       subtitle:
         textAlign: center
