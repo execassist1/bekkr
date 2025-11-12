@@ -383,7 +383,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: ➤ Procurement & Expenditure
+        title: Procurement & Expenditure
         tagline: Feature 2
         subtitle: Traceable and efficient
         text: ''
