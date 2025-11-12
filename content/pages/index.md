@@ -403,7 +403,7 @@ sections:
             borderStyle: dotted
       - type: FeaturedItem
         title: Procurement & Expenditure
-        tagline: Feature 2
+        tagline: Feature 3
         subtitle: Traceable and efficient
         text: ''
         actions: []
