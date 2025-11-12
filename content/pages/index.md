@@ -380,6 +380,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            borderStyle: dashed
       - type: FeaturedItem
         title: ➤ Revenue Collection
         tagline: Feature 1
