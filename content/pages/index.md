@@ -7,6 +7,9 @@ sections:
       text: Building the Operating System for Subnational Governments.
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: >+
       Bekkr helps cities and municipalities digitize payments, eliminate
