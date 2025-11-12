@@ -446,7 +446,7 @@ sections:
         padding:
           - pt-8
         margin:
-          - mb-11
+          - mb-20
       subtitle:
         textAlign: center
   - type: GenericSection
