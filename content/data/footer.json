@@ -81,7 +81,8 @@
         "self": {
             "padding": [
                 "pl-36",
-                "pt-10"
+                "pt-10",
+                "pr-36"
             ],
             "margin": [
                 "mt-0"
