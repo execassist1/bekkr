@@ -86,7 +86,7 @@
         {
             "label": "Request a Demo",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "hello@bekkr.co",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
