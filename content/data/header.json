@@ -13,7 +13,8 @@
                     "pr-96",
                     "pb-32"
                 ],
-                "borderRadius": "xx-small"
+                "borderRadius": "xx-small",
+                "borderWidth": 1
             }
         },
         "type": "ImageBlock"
