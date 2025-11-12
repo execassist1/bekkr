@@ -401,6 +401,25 @@ sections:
             flexDirection: row
             justifyContent: center
             borderStyle: dotted
+      - type: FeaturedItem
+        title: Procurement & Expenditure
+        tagline: Feature 2
+        subtitle: Traceable and efficient
+        text: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: center
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+            borderStyle: dotted
     variant: tabs-nav
     colors: bg-neutral-fg-dark
     styles:
