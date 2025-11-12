@@ -402,7 +402,7 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: Procurement & Expenditure
+        title: Treasury & Payments
         tagline: Feature 3
         subtitle: Traceable and efficient
         text: ''
