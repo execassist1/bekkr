@@ -6,7 +6,8 @@
         "styles": {
             "self": {
                 "padding": [
-                    "pl-28"
+                    "pl-28",
+                    "pt-28"
                 ]
             }
         }
