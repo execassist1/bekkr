@@ -363,7 +363,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: ➤ Revenue Collection
+        title: Revenue Collection
         tagline: Feature 1
         subtitle: ''
         text: |+
