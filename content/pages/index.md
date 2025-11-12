@@ -335,11 +335,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      ➤ Revenue Collection – Intelligent, transparent, real-time ➤ Procurement &
-      Expenditure – Traceable and efficient ➤ Treasury & Payments – Unified
-      ledger for all transactions ➤ Municipal Credit & Capital Access – Linking
-      cities to investors
+    subtitle: ''
     text: |+
 
 
