@@ -364,7 +364,7 @@ sections:
     items:
       - type: FeaturedItem
         title: '➤ Revenue Collection – Intelligent, transparent, real-time '
-        tagline: Feature 2
+        tagline: Feature 1
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
