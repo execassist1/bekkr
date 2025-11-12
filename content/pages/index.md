@@ -423,7 +423,7 @@ sections:
       - type: FeaturedItem
         title: Procurement & Expenditure
         tagline: Feature 4
-        subtitle: Traceable and efficient
+        subtitle: Linking cities to investors
         text: ''
         actions: []
         colors: bg-dark-fg-light
