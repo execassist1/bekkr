@@ -36,7 +36,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Productmockup.png
       altText: bekkr product mockup
       elementId: ''
       type: ImageBlock
