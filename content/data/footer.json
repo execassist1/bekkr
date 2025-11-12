@@ -6,10 +6,10 @@
         "styles": {
             "self": {
                 "padding": [
-                    "pl-28",
-                    "pt-28",
-                    "pb-28",
-                    "pr-96"
+                    "pl-20",
+                    "pt-20",
+                    "pb-20",
+                    "pr-20"
                 ],
                 "margin": [
                     "mr-96"
