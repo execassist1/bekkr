@@ -14,7 +14,8 @@
                     "pb-32"
                 ],
                 "borderRadius": "xx-small",
-                "borderWidth": 0
+                "borderWidth": 0,
+                "borderStyle": "none"
             }
         },
         "type": "ImageBlock"
