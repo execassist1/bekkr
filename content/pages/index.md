@@ -465,7 +465,7 @@ sections:
 
     actions:
       - type: Button
-        label: See open positions
+        label: Get in Touch
         url: /
         icon: arrowRight
         iconPosition: right
