@@ -9,7 +9,8 @@
                 "borderRadius": "medium",
                 "padding": [
                     "pb-0",
-                    "pl-20"
+                    "pl-20",
+                    "pr-20"
                 ]
             }
         }
