@@ -1,17 +1,30 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "url": "/images/Bekker.png",
+        "altText": "Bekkr Logo ",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-96",
+                    "ml-0",
+                    "mb-0"
+                ],
+                "padding": [
+                    "pr-96",
+                    "pb-28",
+                    "pt-28",
+                    "pl-28"
+                ],
+                "borderRadius": "xx-small",
+                "borderWidth": 0,
+                "borderStyle": "none"
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "About",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +32,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Product",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +41,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Vision",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,7 +50,7 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Contact",
             "altText": "Dropdown",
             "links": [
                 {
@@ -71,17 +84,17 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Request a Demo",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "hello@bekkr.co",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
         },
         {
-            "label": "Log in",
-            "url": "/",
+            "label": "Join the Pilot",
+            "url": "hello@bekkr.co",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",

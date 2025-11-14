@@ -4,16 +4,21 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Building the Operating System for Subnational Governments.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: >+
+      <div style="text-align: center">Bekkr helps cities and municipalities
+      digitize payments, eliminate leakages, and grow revenue — starting with
+      intelligent revenue collection, the foundation of financial
+      autonomy.</div>
+
     actions:
-      - label: Get started
+      - label: Request a Demo
         altText: ''
         url: /
         showIcon: false
@@ -22,7 +27,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Join the Pilot
         altText: ''
         url: /
         showIcon: true
@@ -32,12 +37,11 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: bekkr product mockup
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -51,78 +55,52 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/Productmockup.png
+      altText: Dope design preview
+      styles:
+        self:
+          padding:
+            - pl-64
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Public Finance is Broken at the Local Level
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Cities drive development but lack modern financial systems. Across Africa
+      and the Global South, most subnational governments still rely on manual
+      processes — cash payments, outdated ledgers, and opaque procurement. Bekkr
+      changes that.
     items:
-      - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
+      - title: Inefficient collections and reporting
+        subtitle: >-
+          Bekkr provides real-time fiscal visibility through advanced dashboards
+          and analytics.
+        text: ''
         image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/icon1.svg
-          styles:
-            self:
-              borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -137,6 +115,60 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: center
+        type: FeaturedItem
+      - type: FeaturedItem
+        title: Lost revenues and leakages
+        subtitle: >-
+          Bekkr digitizes and automates government revenue systems to eliminate
+          inefficiencies in collection and reporting.
+        text: ''
+        actions: []
+        elementId: null
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: center
+        image:
+          type: ImageBlock
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+      - title: Limited fiscal visibility
+        subtitle: >-
+          Bekkr prevents revenue losses by enforcing digital audit trails that
+          ensure every transaction is transparently tracked from source to
+          treasury.
+        text: |+
+
+
+        image:
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: center
+            justifyContent: center
         type: FeaturedItem
     actions:
       - label: Get started
@@ -149,7 +181,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -157,7 +189,7 @@ sections:
       type: Badge
     elementId: ''
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -168,56 +200,16 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
+  - title: Divider
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -229,387 +221,29 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
+      text: 'Start with the Lifeblood: Revenue Collection'
       color: text-primary
       styles:
         self:
           textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - type: CarouselSection
-    title: null
-    subtitle: What our customers say about us
+    subtitle: >-
+      Bekkr’s revenue platform helps subnational governments digitize every
+      inflow — from property rates to market levies — while ensuring instant
+      reconciliation and transparency.
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Digital Invoicing & Billing
+        tagline: ''
+        subtitle: Automated invoicing for all government fees and permits.
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-    elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
+          url: /images/90de87fded957e0dc9b06e39337dceff.jpg
           altText: Placeholder Image
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -620,19 +254,18 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Seamless Payments
+        tagline: ''
+        subtitle: 'Integrates with banks, cards, and mobile money platforms.'
+        text: ''
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/33609d0000947d45da7f52f095c0906d.jpg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -643,19 +276,18 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+      - title: Analytics & Audit Trails
+        tagline: ''
+        subtitle: Track every transaction with real-time insights and reports.
+        text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/3436f40ac8f0ca36fb6ccad2af1e5fd6.jpg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
           type: ImageBlock
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -680,64 +312,187 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
+    subtitle: ''
+    text: |+
+      <div style="text-align: center"></div>
+
     badge:
-      label: Contact Us
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+  - title:
+      text: >-
+        Bekkr is building the digital backbone for how cities manage money — a
+        unified platform connecting revenue, procurement, treasury, and capital
+        markets.
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    text: |+
+
+
+
+
+    badge:
+      label: ''
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+        alignItems: center
+        padding:
+          - pt-9
+      subtitle:
+        textAlign: center
+    type: GenericSection
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Revenue Collection
+        tagline: Feature 1
+        subtitle: ''
+        text: |+
+          Intelligent, transparent, real-time
+
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: center
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Procurement & Expenditure
+        tagline: Feature 2
+        subtitle: Traceable and efficient
+        text: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: center
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: Treasury & Payments
+        tagline: Feature 3
+        subtitle: Unified ledger for all transactions
+        text: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: center
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+            borderStyle: dotted
+      - type: FeaturedItem
+        title: Municipal Credit & Capital Access
+        tagline: Feature 4
+        subtitle: Linking cities to investors
+        text: ''
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: center
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+            borderStyle: dotted
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pt-8
+        margin:
+          - mb-44
+          - mt-11
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Partner with Bekkr
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    text: >+
+      Join leading municipalities digitizing their fiscal systems with Bekkr’s
+      next-generation public finance infrastructure.
+
+    actions:
+      - type: Button
+        label: Get in Touch
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    colors: bg-neutral-fg-dark
+    backgroundImage:
+      type: BackgroundImage
+      url: /images/abstract-background.svg
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+    styles:
+      self:
+        padding:
+          - pt-40
+          - pl-4
+          - pb-40
+          - pr-4
+        alignItems: center
+        flexDirection: row-reverse
+        justifyContent: center
+      text:
+        textAlign: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

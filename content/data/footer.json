@@ -1,16 +1,27 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Bekker.png",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "padding": [
+                    "pb-0",
+                    "pl-28",
+                    "pr-28"
+                ]
+            }
+        }
     },
-    "text": "A description of your brand",
+    "text": "",
     "primaryLinks": {
-        "title": "Product",
+        "title": "",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "About",
+                "altText": "About page",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,7 +29,7 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
+                "label": "Product",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,68 +37,31 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Vision",
                 "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
+                "type": "Link",
+                "label": "Contact",
+                "altText": "Contact",
+                "url": "hello@bekkr.co",
+                "showIcon": false,
+                "icon": "mail",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -95,15 +69,28 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "© 2025 Bekkr. All rights reserved.",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": false
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pl-36",
+                "pt-10",
+                "pr-0"
+            ],
+            "margin": [
+                "mt-0"
+            ]
+        }
+    }
 }
